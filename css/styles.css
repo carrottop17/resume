@@ -3,8 +3,11 @@
 }
 .jumbotron{
 	background-color: #4C8FFC;
+	background-image: url("http://2.bp.blogspot.com/-YtLrRnloHb4/VHW9k67vJ_I/AAAAAAAABE8/dzC3sq6vmG0/s1600/Good%2BAbstract%2BBackgrounds%2B(3).jpg");
+	background-position: center;
 	padding: 20px;
-	color: #fff;
+	color: #000;
+	font-weight: bold;
 	margin-top: 10px;
 	line-height: 30px;
 }
