@@ -1,0 +1,30 @@
+.page-header{
+	font-size: 30px;
+}
+.jumbotron{
+	background-color: #4C8FFC;
+	padding: 20px;
+	color: #fff;
+	margin-top: 10px;
+	line-height: 30px;
+}
+.circle{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+img{
+	max-width: 100%;
+	border-radius: 50%;
+}
+.footer{
+	border-top: 1px solid black;
+	margin-top: 40px;
+	padding-top: 10px;
+}
+.phone{
+	text-align: right;
+}
+.jumbotron .col-lg-9{
+	padding-top: 10px;
+}
